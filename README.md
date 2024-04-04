@@ -2,8 +2,6 @@
 
 🎯 Created a Superstore Profit Report using Power BI:
 
-👉 Link to my report: https://github.com/Abhijeetlahane09/Sample-store-profit-reporte.git
-
 👉 Insights:
 1. How the profit of the superstore varies with the Category, Region, and Segment.
 2. How the profit and sales vary in each state every year and every quarter.
